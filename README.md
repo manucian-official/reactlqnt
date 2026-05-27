@@ -1,4 +1,4 @@
-# 💬 chatsreactlqnt — Remix: Messenger 🚀
+# 💬 reactlqnt — Remix: Messenger 🚀
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.x-purple.svg?logo=kotlin)](https://kotlinlang.org/)
 [![Compose Material 3](https://img.shields.io/badge/UI-Jetpack%20Compose%20M3-blue.svg?logo=android)](https://developer.android.com/jetpack/compose)
@@ -6,7 +6,7 @@
 [![Security](https://img.shields.io/badge/Security-Android%20Keystore%20%26%20Biometrics-red.svg)](https://developer.android.com/identity/sign-in/biometric)
 [![License](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
 
-**chatsreactlqnt** (tên cấu hình: *Remix: Messenger*) là một ứng dụng di động nhắn tin thời gian thực cao cấp, sở hữu giao diện người dùng hiện đại, lấy cảm hứng từ sự tổng hòa giữa lối thiết kế gọn gàng của **Facebook Messenger** và khả năng tùy biến mạnh mẽ từ **Discord**. 
+**reactlqnt** (tên cấu hình: *Remix: Messenger*) là một ứng dụng di động nhắn tin thời gian thực cao cấp, sở hữu giao diện người dùng hiện đại, lấy cảm hứng từ sự tổng hòa giữa lối thiết kế gọn gàng của **Facebook Messenger** và khả năng tùy biến mạnh mẽ từ **Discord**. 
 
 Ứng dụng được lập trình hoàn toàn bằng **Kotlin** kết hợp với **Jetpack Compose (Material 3)**, tích hợp cơ sở dữ liệu nội bộ **Room DB**, công cụ mã hóa **Android Keystore**, hệ thống khóa vân tay **Biometric**, trình mô phỏng cuộc gọi thoại/video tương tác và một bảng điều khiển giám sát hệ thống lập trình lập nghiệp **DevOps Hub Screen** độc đáo.
 
