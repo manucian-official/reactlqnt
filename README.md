@@ -106,6 +106,6 @@ Dự án này được phân phối dưới giấy phép **MIT**. Xem chi tiết
 ## 🤝 Liên Hệ Hỗ Trợ
 
 Nếu bạn có bất kỳ câu hỏi nào về thiết kế, kiến thức di động, hoặc gặp lỗi trong quá trình khởi tạo ứng dụng, vui lòng liên hệ với nhóm phát triển qua:
-*   **Tác giả**: [khoiplus2102pro@gmail.com](mailto:khoigaming2102pro@gmail.com)
+*   **Tác giả**: [manucian-official](mailto:khoigaming2102pro@gmail.com)
 *   **GitHub**: [@Lê Tuấn Khôi](https://github.com/manucian-official)
 *   **Trình xem thử (Demo Applet Stream)**: [Google AI Studio Shared Portal](https://ais-pre-5qqsbrl2idwyojvgbgomvp-418883067818.asia-southeast1.run.app)
